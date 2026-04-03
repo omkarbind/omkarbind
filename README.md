@@ -7,7 +7,7 @@
 ---
 
 ## 💼 About Me  
-- 👨‍💻 Android Developer with **6+ months of experience**  
+- 👨‍💻 Android Developer with **1+ months of experience**  
 - ⚡ Skilled in **Kotlin, Java, MVVM, Jetpack Compose**  
 - 🔥 Worked on real-world apps (Voter App, ML Farming App)  
 - 🌱 Currently learning **Advanced Android & Backend**  
